@@ -1,16 +1,20 @@
 ## Hi there 👋
 
-<!--
-**SLokesh1810/SLokesh1810** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Lokesh  
 
-Here are some ideas to get you started:
+I'm a B.Tech IT student passionate about:
+- Backend development (Python, Flask)
+- Machine Learning & applied AI
+- Building real-world, scalable systems
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Currently:
+- Practicing DSA for product-based company interviews
+- Working on ML & backend projects
+- Starting open source contributions
+
+Tech stack:
+Python | Flask | Scikit-learn | SQL | Git | Linux basics
+
+Interests:
+Backend Systems • Applied ML • Open Source
+

@@ -1,20 +1,16 @@
-## Hi there 👋
+## Hi 👋 I'm Lokesh
 
-I'm Lokesh  
-
-I'm a B.Tech IT student passionate about:
-- Backend development (Python, Flask)
-- Machine Learning & applied AI
+I'm a B.Tech IT student focused on:
+- Backend development (Python, Flask, Django, FastAPI)
 - Building real-world, scalable systems
+- Machine Learning & applied AI
 
 Currently:
-- Practicing DSA for product-based company interviews
-- Working on ML & backend projects
-- Starting open source contributions
+- Working on ML and backend projects
+- Actively starting open source contributions
 
 Tech stack:
-Python | Flask | Scikit-learn | SQL | Git | Linux basics
+Python | Flask | Django | FastAPI | Scikit-learn | SQL | Git | Java
 
 Interests:
-Backend Systems • Applied ML • Open Source
-
+Backend Systems • Software Development • Applied ML • Open Source • CI/CD

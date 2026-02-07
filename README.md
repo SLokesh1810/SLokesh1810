@@ -77,9 +77,13 @@
 ###
 
 <div align="left">
+  <a href="https://www.linkedin.com/in/slokesh1810/" target="_blank">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Kaggle&logo=kaggle&label=&color=20BEFF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="kaggle logo"  />
+
+  <a href="https://leetcode.com/u/S_Lokesh_18/" target="_blank">
   <img src="https://img.shields.io/static/v1?message=LeetCode&logo=leetcode&label=&color=FFA116&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="leetcode logo"  />
+    
+  <a href="https://www.codechef.com/users/slokesh1810" target="_blank">
   <img src="https://img.shields.io/static/v1?message=CodeChef&logo=codechef&label=&color=5B4638&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="codechef logo"  />
 </div>
 

@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">B.Tech IT student | Backend & ML Engineer in the making<br>I enjoy building systems that actually work in the real world.</p>
+<p align="left">B.Tech IT student<br>I enjoy building systems that actually work in the real world.</p>
 
 ###
 

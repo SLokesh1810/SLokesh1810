@@ -21,7 +21,6 @@
 <p align="left">
   🔹 Backend APIs using Flask, Django & FastAPI<br>
   🔹 Applied ML projects<br>
-  🔹 Resume parsing, ATS systems & data-driven helper tools and dashboard<br>
   🔹 Improving DSA & problem-solving<br>
   🔹 Starting meaningful open-source contributions
 </p>
